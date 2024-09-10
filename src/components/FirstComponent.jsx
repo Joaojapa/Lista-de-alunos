@@ -2,9 +2,9 @@
 function FirstComponent() {
 
     // Definindo as variáveis
-    const nome = "Samuel";
-    const sobrenome = "Rodrigues";
-    const matricula = "2314291027";
+    const nome = "João Vitor";
+    const sobrenome = "Campos Pires";
+    const matricula = "2324290064";
     const nomeProfessor = "Felipe Batista da Silva";
     const nomeDisciplina = "Construção de FrontEnd";
 

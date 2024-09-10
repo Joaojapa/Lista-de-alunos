@@ -4,33 +4,33 @@ const RelatorioALunos = () => {
     const alunos = [
 
         {
-            aluno: "samuel",
-            matrícula: "2314291027",
-            nota: 10,
+         aluno: "Renato",
+        matrícula: "2312456789",
+        nota: 8
         },
 
         {
-            aluno: "michael",
-            matrícula: "2000291027",
-            nota: 2,
+          aluno: "Julia",
+        matrícula: "2003456789",
+        nota: 9
         },
 
 
         {
-            aluno: "luandra",
-            matrícula: "23199873227",
-            nota: 6,
+           aluno: "Pedro",
+        matrícula: "2209876543",
+        nota: 5
         },
 
         {
-            aluno: "jeronimo",
-            matrícula: "20002227027",
-            nota: 7,
+            aluno: "Mariana",
+        matrícula: "2109876543",
+        nota: 10
         },
 
         {
-            aluno: "larissa",
-            matrícula: "22099484933",
+            aluno: "Tiago",
+            matrícula: "2203456789",
             nota: 7
         }
     ]
@@ -49,8 +49,8 @@ const RelatorioALunos = () => {
 
                         <tr>
                             <th>Nome</th>
-                            <th>matrícula</th>
-                            <th>nota Final</th>
+                            <th>Matrícula</th>
+                            <th>Nota Final</th>
                         </tr>
 
                     </thead>
