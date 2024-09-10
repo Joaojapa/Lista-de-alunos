@@ -3,7 +3,7 @@ function FirstComponent() {
 
     // Definindo as variáveis
     const nome = "João Vitor";
-    const sobrenome = "Campos Pires";
+    const sobrenome = "Campos";
     const matricula = "2324290064";
     const nomeProfessor = "Felipe Batista da Silva";
     const nomeDisciplina = "Construção de FrontEnd";
